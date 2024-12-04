@@ -106,8 +106,9 @@ The project adheres to RESTful API principles, enabling a seamless connection be
 ### Frontend
 - `lib/`: Contains Flutter code.
 - `main.dart`: Entry point of the Flutter app.
-- `pages/`: UI pages like Admin Dashboard, Team Management, etc.
-- `services/`: Handles HTTP requests to the backend.
+- `Screens/`: UI pages like Admin Dashboard, Team Management, etc.
+- `api_services/`: Handles HTTP requests to the backend.
+- `models.py`: Defines data models (Team, Player, Matchdetails, etc.).
 
 ---
 
